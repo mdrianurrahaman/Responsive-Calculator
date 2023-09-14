@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+html,body{
+    height:100%;
+    width:100%;
+    font-family: 'Robot' , sans-serif;
+    font-family: 'Ubuntu' , sans-serif;
+}
+
+.button{
+    padding:20px;
+    margin:0 3px;
+    border:2px solid black;
+    border-radius: 9px;
+    cursor:pointer;
+}
+
+.row{
+    margin:5px 0;
+}
+
+.row input{
+    font-size: 19px;
+    margin:0;
+    padding:10px 0px;
+    border-radius: 2px solid black;
+    border-radius: 5px;
+}
+
